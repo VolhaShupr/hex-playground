@@ -1,0 +1,13 @@
+{
+  "extends": [
+    "react-app",
+    "plugin:jsx-a11y/recommended"
+  ],
+  "plugins": [
+    "jsx-a11y"
+  ],
+  "rules": {
+    "semi": [1, "always"],
+    "quotes": [2, "single"]
+  }
+}
